@@ -2,6 +2,7 @@ import pytest
 import random as r     
 from BallTree import BallTree
 from BallTree import FakeBallTree
+
 #Utility function to generate 2D list of random key data pairs. Takes in a 
 #size for the 2D list and dimension for keys
 def generateDataPoints(size, n):
